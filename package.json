@@ -23,7 +23,7 @@
     "video"
   ],
   "license": "Apache-2.0",
-  "main": "dist/jeelizFaceFilterES6.js",
+  "main": "server.js",
   "name": "facefilter",
   "repository": {
     "type": "git",
